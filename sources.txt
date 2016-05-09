@@ -1,0 +1,5 @@
+http://humanfertility.org/cgi-bin/main.php
+http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+http://tinyletter.com/data-is-plural/archive
+http://datausa.io
+https://projects.propublica.org/data-store/
