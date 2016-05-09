@@ -8,3 +8,8 @@ https://github.com/unitedstates/congress
 https://www.govtrack.us/developers/api
 https://propublica.github.io/congress-api-docs/
 https://github.com/propublica
+
+
+# cool visualizations
+http://letsfreecongress.org
+http://www.r2d3.us/
