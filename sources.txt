@@ -4,6 +4,7 @@ http://tinyletter.com/data-is-plural/archive
 http://datausa.io
 https://projects.propublica.org/data-store/
 https://data.cityofberkeley.info
+https://data.oaklandnet.com
 https://github.com/unitedstates/congress
 https://www.govtrack.us/developers/api
 https://propublica.github.io/congress-api-docs/
