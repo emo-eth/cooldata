@@ -1,28 +1,51 @@
+### datasets
+
 http://humanfertility.org/cgi-bin/main.php
-http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 http://tinyletter.com/data-is-plural/archive
 http://datausa.io
 https://projects.propublica.org/data-store/
+https://github.com/propublica
+http://aws.amazon.com/public-data-sets/
+
+# LGBT data
+http://www.lgbtdata.com
+
+# entertainment data
+
+## film data
+http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+
+# civic data
+https://propublica.github.io/congress-api-docs/
+https://www.govtrack.us/developers/api
+https://github.com/unitedstates/congress
+
+# gov data
+http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
+http://www.bayareabikeshare.com/open-data
+
+# city data
+https://data.nola.gov
 https://data.cityofberkeley.info
 https://data.oaklandnet.com
 https://data.sfgov.org
-https://github.com/unitedstates/congress
-https://www.govtrack.us/developers/api
-https://propublica.github.io/congress-api-docs/
-https://github.com/propublica
-http://www.bayareabikeshare.com/open-data
-http://www.lgbtdata.com
 
-# cool visualizations
+### APIs and API lists
+https://musicmachinery.com/music-apis/
+
+### cool visualizations
 http://letsfreecongress.org
 http://www.r2d3.us/
 http://mappingpoliceviolence.org
+https://www.global-regulation.com/blog.php#mapping-the-worlds-laws
+
+### coolblogs of echonest people 😍
+http://notes.variogr.am
+https://musicmachinery.com
+
+### articles/etc
 
 # music and politics (hi sasha)
 http://blog.echonest.com/post/27047918145/musical-taste-politics
 http://www.altpress.com/news/entry/this_chart_shows_which_music_democrats_and_republicans_like
 http://www.theverge.com/2012/7/13/3156537/democrat-republican-music-taste
-
-# coolblogs of echonest people 😍
-http://notes.variogr.am
-https://musicmachinery.com
