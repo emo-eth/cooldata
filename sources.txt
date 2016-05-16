@@ -6,6 +6,7 @@ http://datausa.io
 https://projects.propublica.org/data-store/
 https://github.com/propublica
 http://aws.amazon.com/public-data-sets/
+http://data.opendatasoft.com/page/home/
 
 # LGBT data
 http://www.lgbtdata.com
